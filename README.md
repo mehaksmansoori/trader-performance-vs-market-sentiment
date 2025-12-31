@@ -1,5 +1,7 @@
 # Trader Performance vs Market Sentiment
 
+#Note - “Submitted as part of Primetrade.ai Internshala assignment – Mehak Shaikh Mansoori”
+
 ## 📌 Overview
 This project analyzes the relationship between **Bitcoin market sentiment** (Fear & Greed Index) and **trader performance** using historical trading data from **Hyperliquid**.  
 The goal is to uncover sentiment-driven patterns and translate them into **actionable trading strategy insights**.
